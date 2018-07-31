@@ -17,5 +17,6 @@ function dec(n) {
   return n - 1
 }
 function makeInt(n, base) {
-  var parsed = parseInt(a, 10);
+  var parsed = parseInt(a, 10)
+  return parsed * 10;
 }
